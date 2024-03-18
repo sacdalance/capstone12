@@ -1,17 +1,2 @@
 # capstone12
-Air pollution in our environment globally remained in a critical condition. Furthermore,
-individuals lacks the attention of having information to be aware of the air quality surrounding the
-atmosphere. With students being enclosed in a room for almost an average of eight (8) school
-hours may have risks of negative influences to person's health, comfort, and performance. Also,
-with the COVID-19 pandemic arising, long-term exposure to air pollution equates to 11% increase
-in mortality from virus infection due to air quality. Hence, this study aims to determine the air
-quality index of San Pablo City Science Integrated High School Grade 7 areas and contribute to
-the Field of Science by observing the relative humidity and indoor air temperature. In addition, it
-is for the reason of Grade 7 students that will conduct face-to-face classes on determining safety
-from atmospheric threats. Thus, in response to the Republic Act No. 8749, otherwise known as the
-Clean Air Act, this study aimed to adhere meaningfully to the students, teachers, and future
-researchers to serve as a calling about the air quality that has been circulating throughout the
-institution. Furthermore, this research study had proven that the areas were in a good state of air
-quality and safe for future face-to-face conduct of classes in terms of air quality. Also, concluded
-that relative humidity (positively) and indoor air temperature (negatively) are correlated to indoor
-air quality.
+Air pollution in our environment globally remained in a critical condition. Furthermore, individuals lacks the attention of having information to be aware of the air quality surrounding the atmosphere. With students being enclosed in a room for almost an average of eight (8) school hours may have risks of negative influences to person's health, comfort, and performance. Also, with the COVID-19 pandemic arising, long-term exposure to air pollution equates to 11% increase in mortality from virus infection due to air quality. Hence, this study aims to determine the air quality index of San Pablo City Science Integrated High School Grade 7 areas and contribute to the Field of Science by observing the relative humidity and indoor air temperature. In addition, it is for the reason of Grade 7 students that will conduct face-to-face classes on determining safety from atmospheric threats. Thus, in response to the Republic Act No. 8749, otherwise known as the Clean Air Act, this study aimed to adhere meaningfully to the students, teachers, and future researchers to serve as a calling about the air quality that has been circulating throughout the institution. Furthermore, this research study had proven that the areas were in a good state of air quality and safe for future face-to-face conduct of classes in terms of air quality. Also, concluded that relative humidity (positively) and indoor air temperature (negatively) are correlated to indoor air quality.
