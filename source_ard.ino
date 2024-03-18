@@ -1,3 +1,5 @@
+// Author: Lance Sacdalan
+
 #include <MQ135.h>
 #include <Wire.h>
 #include <dht.h>
