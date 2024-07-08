@@ -1,4 +1,5 @@
-// Author: Lance Sacdalan
+// Made by Sir Linnaeus Bundalian
+// Modified by Lance Sacdalan
 
 #include <MQ135.h>
 #include <Wire.h>
